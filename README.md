@@ -20,3 +20,5 @@ Use Four_metrics.ipynb to include AI-based correctness assessment as the fourth 
 
 4.Automatic Evaluation
 Execute Automatic_evaluation.ipynb to train and test a LightGBM model (with SMOTEENN) that predicts whether an LLM response is correct or not.
+
+In addition, four Excel files are provided as supplementary materials, as described in the corresponding manuscript, to allow readers access to the raw data for further analysis.
